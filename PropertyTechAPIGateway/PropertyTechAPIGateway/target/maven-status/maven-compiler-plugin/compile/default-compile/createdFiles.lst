@@ -1,0 +1,6 @@
+com\propelio\PropertyTechAPIGateway\Config\RouteValidator.class
+com\propelio\PropertyTechAPIGateway\Config\PropertyApiGatewayFilter.class
+com\propelio\PropertyTechAPIGateway\Config\AppConfig.class
+com\propelio\PropertyTechAPIGateway\Config\JwtGatewayService.class
+com\propelio\PropertyTechAPIGateway\Config\RouteValidator$1.class
+com\propelio\PropertyTechAPIGateway\PropertyTechApiGatewayApplication.class
